@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WinterBoii
 - 👀 I’m interested in Coding & Helping
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on: Not decided yet 
 - 📫 How to reach me: email me :D
 
 <!---
