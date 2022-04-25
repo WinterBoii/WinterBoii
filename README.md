@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WinterBoii
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding & Helping
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: email me :D
